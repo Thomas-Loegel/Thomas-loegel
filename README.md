@@ -30,3 +30,4 @@ https://www.youtube.com/watch?v=vD-t_IohSbo
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-loegel)](https://github.com/thomas-loegel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-loegel&layout=compact)](https://github.com/thomas-loegel/github-readme-stats)
