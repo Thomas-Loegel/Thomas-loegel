@@ -26,8 +26,3 @@ https://www.youtube.com/watch?v=vD-t_IohSbo
 <img alt="bash" style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img alt="wordpress" style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img alt="woocommerce" style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-loegel)](https://github.com/thomas-loegel/github-readme-stats&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-loegel&layout=compact)](https://github.com/thomas-loegel/github-readme-stats&theme=radical)
